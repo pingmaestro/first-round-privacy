@@ -1,0 +1,98 @@
+Privacy Policy — First Round                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                   
+  # Privacy Policy                                                                                                                                                                                                                                 
+   
+  **Effective date:** June 15, 2026                                                                                                                                                                                                                
+  **App:** First Round — Cocktails Exploration                                                                                                                                                                                                   
+  **Developer:** Guillaume Lagacé
+                                                                                                                                                                                                                                                   
+  ## Summary                              
+                                                                                                                                                                                                                                                   
+  First Round does not collect, store, or share any of your personal                                                                                                                                                                               
+  information. All data you create in the app stays on your device or
+  in your own private iCloud account.                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                 
+  ## What we don't do
+                                                                                                                                                                                                                                                   
+  - We do not collect, transmit, or sell any user data.
+  - We do not use any analytics, advertising, or tracking SDKs.                                                                                                                                                                                    
+  - We do not have an account system. You don't sign in to use the app.                                                                                                                                                                          
+  - We do not access your contacts, calendar, location, or microphone.                                                                                                                                                                             
+  - We never see, read, or store anything you save in the app.
+                                                                                                                                                                                                                                                   
+  ## What stays on your device                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                   
+  Everything you do in First Round — drinks you mark as tried, save,                                                                                                                                                                               
+  or rate, photos you attach to diary entries, notes, your profile                                                                                                                                                                                 
+  name and avatar — is stored locally in the app's sandbox.                                                                                                                                                                                        
+                                                                                                                                                                                                                                                   
+  ## What syncs to your own iCloud        
+                                                                                                                                                                                                                                                   
+  If your device is signed in to iCloud and iCloud Drive is enabled,                                                                                                                                                                               
+  First Round uses Apple's CloudKit framework to sync the items above
+  across your own devices. This sync uses your **private** CloudKit                                                                                                                                                                                
+  database, which is encrypted in transit and at rest. Only you (or                                                                                                                                                                                
+  someone signed in to your iCloud account) can access it. The
+  developer cannot see your data.                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                   
+  You can disable this sync at any time by signing out of iCloud or                                                                                                                                                                                
+  turning off iCloud for First Round in iOS Settings.                                                                                                                                                                                              
+                                                                                                                                                                                                                                                   
+  ## Photos                                                                                                                                                                                                                                        
+  
+  Photos you attach to diary entries are stored in two places:                                                                                                                                                                                     
+                                                                                                                                                                                                                                                 
+  1. Locally, in the app's sandboxed Documents folder, protected by                                                                                                                                                                                
+     iOS Data Protection (encrypted at rest).                                                                                                                                                                                                    
+  2. In your own private iCloud container, via CloudKit. Photos are
+     not uploaded anywhere else.                                                                                                                                                                                                                   
+                                          
+  When you delete a photo or reset your data in the app, the local copy                                                                                                                                                                            
+  is removed. The corresponding iCloud record is also removed (or left                                                                                                                                                                             
+  as an orphan that you can clean up via iCloud Settings).
+                                                                                                                                                                                                                                                   
+  ## Camera & Photo Library access                                                                                                                                                                                                               
+                                                                                                                                                                                                                                                   
+  If you choose to attach a photo, the app asks for permission to take                                                                                                                                                                             
+  a picture (Camera) or pick one (Photo Library). Permission is only                                                                                                                                                                               
+  requested at the moment you use the feature, and only the specific                                                                                                                                                                               
+  photo you choose is delivered to the app — never your full library.                                                                                                                                                                            
+                                              
+  ## Voluntary sharing                                                                                                                                                                                                                             
+                                                                                                                                                                                                                                                   
+  The app includes a "Share with the developer" button in the Profile                                                                                                                                                                              
+  screen. Tapping it composes an email to the developer with a JSON                                                                                                                                                                                
+  attachment of your in-app data. This is fully optional and only sent                                                                                                                                                                             
+  if you explicitly send the email. The developer uses this data only                                                                                                                                                                            
+  to improve the app and does not share or store it elsewhere.
+                                                                                                                                                                                                                                                   
+  ## Cocktail data                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                   
+  The IBA cocktail catalog, images, ingredients, and metadata bundled                                                                                                                                                                              
+  with the app are sourced from public domain references, the                                                                                                                                                                                      
+  International Bartenders Association, and TheCocktailDB. No                                                                                                                                                                                    
+  network requests are made to fetch this content — everything is                                                                                                                                                                                  
+  embedded in the app at install time.        
+                                                                                                                                                                                                                                                   
+  ## External links                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                   
+  The app may surface links to YouTube and IBA pages. Tapping them                                                                                                                                                                                 
+  opens your default browser. Once you leave First Round, the privacy                                                                                                                                                                              
+  policies of those external sites apply.                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                   
+  ## Children
+                                                                                                                                                                                                                                                   
+  First Round is rated 17+ because it features alcoholic beverage                                                                                                                                                                                
+  content. It is not directed at children under 13. We do not knowingly                                                                                                                                                                            
+  collect any data from anyone, including minors.                                                                                                                                                                                                
+                                                                                                                                                                                                                                                   
+  ## Changes
+                                                                                                                                                                                                                                                   
+  If this policy changes, the new version will be published at this                                                                                                                                                                              
+  URL with an updated effective date. Material changes will be noted                                                                                                                                                                               
+  in the app's release notes.                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                   
+  ## Contact
+                                                                                                                                                                                                                                                   
+  Questions, requests, or feedback:                                                                                                                                                                                                              
+  **guillaumelagace514@gmail.com**                    
