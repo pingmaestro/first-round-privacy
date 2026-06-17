@@ -95,4 +95,4 @@ Privacy Policy — First Round
   ## Contact
                                                                                                                                                                                                                                                    
   Questions, requests, or feedback:                                                                                                                                                                                                              
-  **cuter_pub_2a@icloud.com**                    
+  **contact@firstround.bar**                    
